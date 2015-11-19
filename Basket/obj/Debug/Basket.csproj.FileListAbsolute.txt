@@ -1,0 +1,21 @@
+c:\users\robert garrett\documents\visual studio 2012\Projects\Basket\Basket\bin\Debug\Basket.exe.config
+c:\users\robert garrett\documents\visual studio 2012\Projects\Basket\Basket\bin\Debug\Basket.exe
+c:\users\robert garrett\documents\visual studio 2012\Projects\Basket\Basket\bin\Debug\Basket.pdb
+c:\users\robert garrett\documents\visual studio 2012\Projects\Basket\Basket\obj\Debug\Basket.csprojResolveAssemblyReference.cache
+c:\users\robert garrett\documents\visual studio 2012\Projects\Basket\Basket\obj\Debug\Basket.exe
+c:\users\robert garrett\documents\visual studio 2012\Projects\Basket\Basket\obj\Debug\Basket.pdb
+C:\Users\Robert.Garrett.JHILBURN\Desktop\Basket\Basket\bin\Debug\Basket.exe.config
+C:\Users\Robert.Garrett.JHILBURN\Desktop\Basket\Basket\obj\Debug\Basket.exe
+C:\Users\Robert.Garrett.JHILBURN\Desktop\Basket\Basket\obj\Debug\Basket.pdb
+P:\IT\Basket\Basket\bin\Debug\Basket.exe.config
+P:\IT\Basket\Basket\obj\Debug\Basket.exe
+P:\IT\Basket\Basket\obj\Debug\Basket.pdb
+\\jh-files\Public\IT\Basket\Basket\bin\Debug\Basket.exe.config
+\\jh-files\Public\IT\Basket\Basket\obj\Debug\Basket.exe
+\\jh-files\Public\IT\Basket\Basket\obj\Debug\Basket.pdb
+C:\Users\Brandon\Downloads\Basket\Basket\Basket\bin\Debug\Basket.exe.config
+C:\Users\Brandon\Downloads\Basket\Basket\Basket\obj\Debug\Basket.exe
+C:\Users\Brandon\Downloads\Basket\Basket\Basket\obj\Debug\Basket.pdb
+C:\Users\Brandon\Downloads\Basket\Basket\Basket\bin\Debug\Basket.exe
+C:\Users\Brandon\Downloads\Basket\Basket\Basket\bin\Debug\Basket.pdb
+C:\Users\Brandon\Downloads\Basket\Basket\Basket\obj\Debug\Basket.csprojResolveAssemblyReference.cache

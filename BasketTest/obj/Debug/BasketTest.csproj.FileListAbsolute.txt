@@ -1,0 +1,7 @@
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\obj\Debug\BasketTest.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\bin\Debug\BasketTest.dll
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\bin\Debug\BasketTest.pdb
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\bin\Debug\Basket.exe
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\bin\Debug\Basket.pdb
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\obj\Debug\BasketTest.dll
+C:\Users\Brandon\Downloads\Basket\Basket\BasketTest\obj\Debug\BasketTest.pdb
