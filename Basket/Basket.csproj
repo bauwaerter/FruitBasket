@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ApiCall.cs" />
     <Compile Include="FruitBasket.cs" />
+    <Compile Include="IFruitBasket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

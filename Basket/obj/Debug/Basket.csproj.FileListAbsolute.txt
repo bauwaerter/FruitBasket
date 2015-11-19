@@ -19,3 +19,9 @@ C:\Users\Brandon\Downloads\Basket\Basket\Basket\obj\Debug\Basket.pdb
 C:\Users\Brandon\Downloads\Basket\Basket\Basket\bin\Debug\Basket.exe
 C:\Users\Brandon\Downloads\Basket\Basket\Basket\bin\Debug\Basket.pdb
 C:\Users\Brandon\Downloads\Basket\Basket\Basket\obj\Debug\Basket.csprojResolveAssemblyReference.cache
+C:\Users\c101240\Downloads\basket\FruitBasket\Basket\bin\Debug\Basket.exe.config
+C:\Users\c101240\Downloads\basket\FruitBasket\Basket\obj\Debug\Basket.exe
+C:\Users\c101240\Downloads\basket\FruitBasket\Basket\obj\Debug\Basket.pdb
+C:\Users\c101240\Downloads\basket\FruitBasket\Basket\bin\Debug\Basket.exe
+C:\Users\c101240\Downloads\basket\FruitBasket\Basket\bin\Debug\Basket.pdb
+C:\Users\c101240\Downloads\basket\FruitBasket\Basket\obj\Debug\Basket.csprojResolveAssemblyReference.cache

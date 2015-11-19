@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Basket
 {
-    public class FruitBasket
+    public class FruitBasket : IFruitBasket
     {
         private const string APPLE = "an apple";
         private const string ORANGE = "an orange";
@@ -18,12 +18,35 @@ namespace Basket
         public bool hasOrange { get; set; }
         public bool hasBanana { get; set; }
         public bool hasPear { get; set; }
-            
+
+        public List<string> BasketItems
+        {
+            get
+            {
+                var basketItemsList = new List<string>();
+
+                if (this.hasApple)
+                    basketItemsList.Add(APPLE);
+                if (this.hasOrange)
+                    basketItemsList.Add(ORANGE);
+                if (this.hasBanana)
+                    basketItemsList.Add(BANANA);
+                if (this.hasPear)
+                    basketItemsList.Add(PEAR);
+
+                return basketItemsList;
+            }
+        }
+
         public string DisplayBasket()
+        {
+            return DisplayBasket(this.BasketItems);
+        }
+
+        public string DisplayBasket(List<string> basketList)
         {
             string basketContents = "The basket is empty.";
 
-            var basketList = GetBasketItems();
             var numItemsInBasket = basketList.Count();
 
             if (numItemsInBasket > 0)
@@ -48,22 +71,6 @@ namespace Basket
             }
 
             return basketContents;
-        }
-
-        public List<string> GetBasketItems()
-        {
-            var basketItemsList = new List<string>();
-
-            if (this.hasApple)
-                basketItemsList.Add(APPLE);
-            if (this.hasOrange)
-                basketItemsList.Add(ORANGE);
-            if (this.hasBanana)
-                basketItemsList.Add(BANANA);
-            if (this.hasPear)
-                basketItemsList.Add(PEAR);
-                        
-            return basketItemsList;
         }
     }
 }

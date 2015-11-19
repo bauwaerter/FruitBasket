@@ -14,7 +14,7 @@ namespace Basket
             try
             {
                 //Api call that retrieves the contents of the basket
-                FruitBasket theBasket = ApiCall.getFruitBasket();
+                IFruitBasket theBasket = ApiCall.getFruitBasket();
                 //Output the contents of the basket that was retrieved from the api call above. For example:
                 //There is an apple, orange, banana and pear in the basket.
                 System.Console.Out.WriteLine("Basket Contents:\n\n" + theBasket.DisplayBasket());

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basket
 {
-    interface IFruitBasket
+    public interface IFruitBasket
     {
         string DisplayBasket();
 
